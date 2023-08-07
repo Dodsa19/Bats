@@ -1,0 +1,1 @@
+del C:\Users\alumno\AppData\Local\Temp\*.*
